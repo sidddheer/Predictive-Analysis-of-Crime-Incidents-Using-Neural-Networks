@@ -12,7 +12,7 @@
 
 *A Deep Learning approach to analyzing over 322,000 crime records in Buffalo, NY.*
 
-[View Code](src/train.py) • [Report Issue](https://github.com/yourusername/repo/issues)
+[View Code](crime_prediction.py) • [Report Issue](https://github.com/yourusername/repo/issues)
 
 </div>
 
